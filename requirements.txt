@@ -1,2 +1,2 @@
 PyQt5
-pythonocc-core
+# PythonOCC-Core is not included here. Please install it using conda as described in the README.
